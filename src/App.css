@@ -9,3 +9,16 @@
 .Polaris-MediaCard__LikeButton svg {
     font-size: 2rem;
 }
+.Polaris-SkeletonThumbnail--sizeMedium {
+    flex-basis: 40%;
+    min-height: 372px !important;
+}
+
+.Loading-card__Container {
+    display: flex;
+    justify-content: space-between;
+}
+.Loading-card__ContentWrapper {
+    flex-basis: 60%;
+    padding: 10px;
+}
